@@ -14,4 +14,5 @@ Esta versión corre a cargo de [**Skyflyer**](https://x.com/Sky_fangames) y [**D
 - Muchos QoL
 - Modo Nuzlocke y Random configurables
 - Modo Monotype
+- Modo VGC (todos los combates serán dobles y en el caso de que tengas 1 solo Pokémon será un 1v2)
 - Actualizador del juego, en el caso de joiplay te notifica y abre el link de descarga.
