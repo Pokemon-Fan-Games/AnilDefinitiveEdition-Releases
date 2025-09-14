@@ -8,6 +8,7 @@ Esta versión corre a cargo de [**Skyflyer**](https://x.com/Sky_fangames) y [**D
 
 - Mejoras sustanciales de rendimiento tanto en PC como en Joiplay
 - Se podrán obtener los 1027 Pokémon (1025 oficiales + Royaleon y Cefireon) sin depender de la suerte con Don Prodigio
+- Están todos los ataques, habilidades y objetos hasta la 9na gen
 - Se extendió el postgame con eventos para capturar a todos los legendarios
 - Modo online para combates e intercambios
 - Cambios en la UI
